@@ -204,4 +204,4 @@ ITERA-AI/
 ---
  ## 👥 Team 
 
-Built with ❤️ at **Impact AI-Thon 2026, Chennai**
+Built with ❤️ at **Impact AI-Thon 2026,Chennai**
